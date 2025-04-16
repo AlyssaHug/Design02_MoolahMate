@@ -6,7 +6,7 @@ export default function Home() {
       <main>
       </main>
       <footer>
-    
+    git 
       </footer>
     </div>
   );
